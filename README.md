@@ -1,5 +1,7 @@
 # Startline
 
+<img src="https://raw.githubusercontent.com/ninefortyone/startline/master/screenshot.png" style="" height="100">
+
 [@joncarlmatthews](https://twitter.com/joncarlmatthews) [@tom_beavan](https://twitter.com/tom_beavan)
 
 Startline is a super-skinny WordPress Theme that acts as a starting point for new themes that use both [Twitter Bootstrap](http://getbootstrap.com/) and [Font Awesome](http://fontawesome.io/). It also comes bundled with the [HTML5 Shiv](https://github.com/aFarkas/html5shiv) and [Respond.js](https://github.com/scottjehl/Respond) utilities. The CSS is written using [Sass](http://sass-lang.com/) and the packages are managed by [npm](https://www.npmjs.com/).
