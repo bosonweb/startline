@@ -8,7 +8,7 @@ Requires at least: WordPress 4.6. Tested up to: WordPress 4.6.1
 
 ## Installation
 
-1) Download the theme from this ZIP
+1) [Download the theme from this ZIP](https://ninefortyone.co.uk/startline/latest.zip)
  
 2) Navigate to the theme's directory on the command line and install the dependencies: 
  
@@ -49,7 +49,7 @@ To build the site ready for production, run the following command. This installs
 
 ## Copyright
 
-Startline WordPress Theme, Copyright 2016 WordPress.org
+Startline WordPress Theme, Copyright 2016 Nine Forty One Ltd.
 Startline is distributed under the terms of the GNU GPL
 
 This program is free software: you can redistribute it and/or modify
