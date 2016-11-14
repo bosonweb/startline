@@ -1,0 +1,16 @@
+/*
+Theme Name: Startline
+Theme URI: https://wordpress.org/themes/startline/
+Author: Jon Matthews <joncarlmatthews@gmail.com>, Tom Bevan <tom@bosonmedia.net>
+Author URI: https://wordpress.org/
+Description: A starting point for creating a new WordPress Theme that uses both Twitter Bootstrap and Font Awesome. Uses SCSS. Ultilises HTML5 Shiv and Respond.js.
+Version: 0.1
+License: This theme: GNU General Public License v2 or later. For third party licences see accompanying licence. 
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: startline, start, line
+Text Domain: startline
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+@import "css/main.css"

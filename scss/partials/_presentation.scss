@@ -1,0 +1,12 @@
+//
+// WordPress presentational styles
+// --------------------------------------------------
+.alignright {
+	@extend .pull-right;
+}
+.alignleft {
+	@extend .pull-left;
+}
+.aligncenter {
+	@extend .center-block;
+}

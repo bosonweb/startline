@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+.sass-cache
+*.css.map
+node_modules
+css/main.min.css

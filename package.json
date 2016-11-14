@@ -1,0 +1,21 @@
+{
+  "name": "startline",
+  "version": "1.0.0",
+  "description": "Startline theme",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install && sass scss/main.scss css/main.min.css && ./node_modules/.bin/cleancss -o ./css/main.min.css ./css/main.min.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/bosonmedia/startline.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/bosonmedia/startline#readme",
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "clean-css": "^3.4.20",
+    "font-awesome": "^4.6.3"
+  }
+}
