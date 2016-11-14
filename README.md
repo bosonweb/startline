@@ -9,7 +9,8 @@ Requires at least: WordPress 4.6. Tested up to: WordPress 4.6.1
 ## Installation
 
 1. Download the theme from this ZIP
-2. Navigate to the theme's directory on the command line and run the following command: ```
+2. Navigate to the theme's directory on the command line and run the following command: 
+```
 $ cd wp-content/themes/startline
 $ npm run build
 ```
