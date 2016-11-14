@@ -8,14 +8,14 @@ Requires at least: WordPress 4.6. Tested up to: WordPress 4.6.1
 
 ## Installation
 
- - Download the theme from this ZIP
- - Navigate to the theme's directory on the command line and install the dependencies: 
+ - 1) Download the theme from this ZIP
+ - 2) Navigate to the theme's directory on the command line and install the dependencies: 
 ```
 $ cd wp-content/themes/startline
 $ npm run build
 ```
- - Activate the theme within the WordPress admin panel
- - Get customising.
+ - 3) Activate the theme within the WordPress admin panel
+ - 4) Get customising.
 
 ## Customising
 
