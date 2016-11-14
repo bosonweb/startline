@@ -1,6 +1,6 @@
 # Startline
 
-<img src="https://raw.githubusercontent.com/ninefortyone/startline/master/screenshot.png" style="" height="100">
+<img src="https://raw.githubusercontent.com/ninefortyone/startline/master/screenshot.png" style="float:right;display:block" height="100">
 
 [@joncarlmatthews](https://twitter.com/joncarlmatthews) [@tom_beavan](https://twitter.com/tom_beavan)
 
