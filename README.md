@@ -49,7 +49,7 @@ To build the site ready for production, run the following command. This installs
 
 ## Copyright
 
-Startline WordPress Theme, Copyright 2016 Nine Forty One Ltd.
+Startline WordPress Theme, Copyright 2016 Nine Forty One.
 Startline is distributed under the terms of the GNU GPL
 
 This program is free software: you can redistribute it and/or modify
