@@ -5,3 +5,4 @@ Thumbs.db
 node_modules
 css/main.min.css
 js/bootstrap.min.js
+js/html5shiv.min.js

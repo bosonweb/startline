@@ -1,6 +1,6 @@
 <?php
 
-
+// Nav walker for Bootstrap friendly navs.
 require 'inc/walker.php';
 
 // Optimising page size by remove code injected into the theme...
@@ -41,7 +41,7 @@ function init_scripts()
 
 	// HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries
 	wp_enqueue_script('html5shiv.js', 
-						get_stylesheet_directory_uri() . '/js/html5shiv-3.7.3/html5shiv.min.js', 
+						get_stylesheet_directory_uri() . '/js/html5shiv.min.js', 
 						array('jquery'), 
 						$currentTheme->get('Version'), 
 						false);
