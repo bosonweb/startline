@@ -4,7 +4,7 @@
   "description": "Startline theme",
   "main": "index.js",
   "scripts": {
-    "build": "npm install && sass scss/main.scss css/main.min.css && ./node_modules/.bin/cleancss -o ./css/main.min.css ./css/main.min.css"
+    "build": "npm install && sass scss/main.scss css/main.min.css && cleancss -o ./css/main.min.css ./css/main.min.css"
   },
   "repository": {
     "type": "git",
