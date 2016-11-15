@@ -4,7 +4,7 @@
   "description": "Startline theme",
   "main": "index.js",
   "scripts": {
-    "build": "npm install && sass scss/main.scss css/main.min.css && cleancss -o ./css/main.min.css ./css/main.min.css"
+    "build": "npm install && sass scss/main.scss css/main.min.css && cleancss -o ./css/main.min.css ./css/main.min.css && uglifyjs ./node_modules/bootstrap-sass/assets/javascripts/bootstrap.js -o ./js/bootstrap.min.js"
   },
   "repository": {
     "type": "git",
@@ -16,6 +16,7 @@
   "dependencies": {
     "bootstrap-sass": "^3.3.7",
     "clean-css": "^3.4.20",
-    "font-awesome": "^4.6.3"
+    "font-awesome": "^4.6.3",
+    "uglify-js": "^2.7.4"
   }
 }

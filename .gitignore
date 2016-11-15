@@ -4,3 +4,4 @@ Thumbs.db
 *.css.map
 node_modules
 css/main.min.css
+js/bootstrap.min.js

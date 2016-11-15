@@ -42,13 +42,20 @@ function init_scripts()
 	// HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries
 	wp_enqueue_script('html5shiv.js', 
 						get_stylesheet_directory_uri() . '/js/html5shiv-3.7.3/html5shiv.min.js', 
-						array(), 
+						array('jquery'), 
 						$currentTheme->get('Version'), 
 						false);
 
 	wp_enqueue_script('respond.js', 
 						get_stylesheet_directory_uri() . '/js/respond-1.4.2/respond.min.js', 
 						array('html5shiv.js'), 
+						$currentTheme->get('Version'), 
+						false);
+
+	// Twitter Bootstrap JS
+	wp_enqueue_script('bootstrap.js', 
+						get_stylesheet_directory_uri() . '/js/bootstrap.min.js', 
+						array('respond.js'), 
 						$currentTheme->get('Version'), 
 						false);
 }
