@@ -8,8 +8,6 @@ Startline is a super-skinny WordPress Theme that acts as a starting point for ne
 
 Requires at least: WordPress 4.6. Tested up to: WordPress 4.6.1
 
-[Download the latest version](https://ninefortyone.co.uk/startline/latest.zip)
-
 ## Installation
 
  - [Download the theme from this ZIP](https://ninefortyone.co.uk/startline/latest.zip)
