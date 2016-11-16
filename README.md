@@ -11,6 +11,7 @@ Requires at least: WordPress 4.6. Tested up to: WordPress 4.6.1
 ## Installation
 
  - [Download the theme from this ZIP](https://ninefortyone.co.uk/startline/latest.zip)
+ - Extract the ZIP archive into your WordPress install's Theme directory
  - Activate the theme within the WordPress admin panel
  - Get customising.
 
