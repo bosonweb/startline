@@ -8,20 +8,13 @@ Startline is a super-skinny WordPress Theme that acts as a starting point for ne
 
 Requires at least: WordPress 4.6. Tested up to: WordPress 4.6.1
 
+[Download the latest version](https://ninefortyone.co.uk/startline/latest.zip)
+
 ## Installation
 
-1) [Download the theme from this ZIP](https://ninefortyone.co.uk/startline/latest.zip)
- 
-2) Navigate to the theme's directory on the command line and install the dependencies: 
- 
-```
-$ cd wp-content/themes/startline
-$ npm run build
-```
-
-3) Activate the theme within the WordPress admin panel
- 
-4) Get customising.
+ - [Download the theme from this ZIP](https://ninefortyone.co.uk/startline/latest.zip)
+ - Activate the theme within the WordPress admin panel
+ - Get customising.
 
 ## Customising
 
