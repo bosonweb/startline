@@ -21,7 +21,10 @@ Requires at least: WordPress 4.6. Tested up to: WordPress 4.6.1
 
 Edit the Sass files within the `scss/` directory and run the Sass watch command
 
-`$ sass --watch scss/main.scss:css/main.min.css`
+```
+$ cd wp-content/themes/startline
+$ sass --watch scss/main.scss:css/main.min.css
+```
 
 ### Favicons
 
