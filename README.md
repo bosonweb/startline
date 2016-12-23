@@ -6,7 +6,7 @@
 
 Startline is a super-skinny WordPress Theme that acts as a starting point for new themes that use both [Twitter Bootstrap](http://getbootstrap.com/) and [Font Awesome](http://fontawesome.io/). It also comes bundled with the [HTML5 Shiv](https://github.com/aFarkas/html5shiv) and [Respond.js](https://github.com/scottjehl/Respond) utilities. The CSS is written using [Sass](http://sass-lang.com/).
 
-Requires at least: WordPress 4.6. Tested up to: WordPress 4.6.1
+Requires at least: WordPress 4.6. Tested up to: WordPress 4.7
 
 ## Installation
 
