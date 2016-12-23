@@ -8,6 +8,10 @@ require 'inc/walker.php';
 // Hide the admin bar.
 show_admin_bar(false);
 
+register_nav_menus( array(
+	'top' => __( 'Top Menu', 'twentyseventeen' ),
+));
+
 // Remove wp-embed.js
 function my_deregister_scripts()
 {
