@@ -2,7 +2,8 @@
 Thumbs.db
 .sass-cache
 *.css.map
-node_modules
-css/main.min.css
-js/bootstrap.min.js
-js/html5shiv.min.js
+
+# Ignore all node modules apart from ones needed
+node_modules/*
+!node_modules/bootstrap/
+!node_modules/font-awesome/
